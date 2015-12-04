@@ -1,4 +1,5 @@
-# Stock-Market-Analysis-of-GM-Motors
+# Stock-Market-Analysis
+
 We performed exploratory data analysis with GM motors stock market data and report our findings.
 
 
